@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "m:\\unreal projects\\ba2b-team1\\deduction\\plugins\\advancedsessions\\source\\advancedsessions\\private\\advancedsessions.cpp",
+        "ProvidedModule": "",
+        "PCH": "m:\\unreal projects\\ba2b-team1\\deduction\\intermediate\\build\\win64\\x64\\deduction\\shipping\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "m:\\unreal projects\\ba2b-team1\\deduction\\plugins\\advancedsessions\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\advancedsessions\\definitions.advancedsessions.h",
+            "m:\\unreal projects\\ba2b-team1\\deduction\\plugins\\advancedsessions\\source\\advancedsessions\\classes\\advancedsessions.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
